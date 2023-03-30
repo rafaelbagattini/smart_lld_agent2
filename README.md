@@ -1,6 +1,7 @@
 # Monitorar o S.M.A.R.T dos seus discos (NVMe e HDD) via Zabbix
 
 Ainda não testei em SSD SATA, não garanto que funcione corretamente.
+Não criei nenhum alerta, apenas a coleta dos dados, pois a ideia é usar em um PC pessoal.
 
 # Para instalar:
 
@@ -15,6 +16,7 @@ Ainda não testei em SSD SATA, não garanto que funcione corretamente.
 # S.M.A.R.T monitoring for NVMe and HDD on Zabbix
 
 I have not tested this template in SSD, no guarantee that works.
+I have not created the Triggers, because it's for personal porpouse only.
 
 # To install:
 
