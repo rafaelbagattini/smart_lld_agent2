@@ -13,7 +13,7 @@
             <uuid>d1616f8778d546b087b0b5b610a768b7</uuid>
             <template>SMART COM DISCOVERY by Rafael</template>
             <name>SMART COM DISCOVERY by Rafael</name>
-            <description>Utiliza o Smartmonitortools para verificar o SMART do seu nvme.</description>
+            <description>Utiliza o Smartmonitortools para verificar o SMART do seu nvme ou HDD.</description>
             <groups>
                 <group>
                     <name>Casa</name>
